@@ -37,17 +37,17 @@ echo "<br>";
 </div>
 
 <Style>
-.centered
-{
-    text-align:center;
-    vertical-align: text-middle;
-}
+    .centered
+    {
+        text-align:center;
+        vertical-align: text-middle;
+    }
 
-.btn-xl {
-    padding: 18px 28px;
-    font-size: 22px;
-    border-radius: 8px;
-}
+    .btn-xl {
+        padding: 18px 28px;
+        font-size: 22px;
+        border-radius: 8px;
+    }
 </Style>
 
         

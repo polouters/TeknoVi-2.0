@@ -8,7 +8,7 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">TecMilenio</a>
+      <a class="navbar-brand" href="#">TeknoVi</a>
     </div>
     <div>
       <ul class="nav navbar-nav">

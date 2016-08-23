@@ -62,7 +62,6 @@ if(!isset($_SESSION['userid']))
         }
     }
 ?>
-<img src="Tecmi.png"  align="left" style="width:504px;height:228px;">
  
 <div class = "container">
 <div class="wrapper">
