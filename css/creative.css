@@ -219,6 +219,10 @@ header .header-content .header-content-inner p {
   .service-box {
     margin: 20px auto 0;
   }
+  .p100{
+    height: 100%;
+
+  }
 }
 .service-box p {
   margin-bottom: 0;
@@ -275,6 +279,10 @@ header .header-content .header-content-inner p {
   }
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     font-size: 22px;
+  }
+  .p100{
+    height: 100%;
+
   }
 }
 .call-to-action h2 {
@@ -414,7 +422,4 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
-.p100{
-  height: 100%;
 
-    }
