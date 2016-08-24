@@ -115,21 +115,21 @@ require_once __DIR__.'/raiz.php';
                 <div class="col-lg-17 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-cog  sr-icons"></i>
-                        <h3> Reparaciones</h3>
+                        <a href="<?php echo url::getRaiz();?>/Reparaciones.php" class="servicios"><h3> Reparaciones</h3></a>
                         <p class="text-faded">Si tu ordenador, movil, tablet u otro producto tecnológico necesita echar un vistazo, este es tu sitio.</p>
                     </div>
                 </div>
                 <div class="col-lg-15 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-question  sr-icons"></i>
-                        <h3>Dudas?</h3>
+                        <a href="<?php echo url::getRaiz();?>/Dudas.php" class="servicios"><h3>Dudas?</h3></a>
                         <p class="text-faded">Tienes alguna duda relacionada con el mundo de la tecnologia o no te decides con qué hosting quedarte para tu web? No dudes en consultarnos en nuestras redes!. </p>
                     </div>
                 </div>
                 <div class="col-lg-17 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-shopping-bag  sr-icons"></i>
-                        <h3>Personal Shopper</h3>
+                        <a href="<?php echo url::getRaiz();?>/Shopper.php" class="servicios"><h3>Personal Shopper</h3></a>
                         <p class="text-faded">Si no te decides con qué comprar a nivel tecnológico, nosotros te asesoramos al mejor precio.</p>
                     </div>
                 </div>
