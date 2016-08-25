@@ -7,7 +7,7 @@
  */
 class url
 {
-    private static $raiz = "http://192.168.33.10/TeknoVi-2.0";
+    private static $raiz = "http://teknovi.es";
 
     /**Esto depende de como tengamos configurado el directorio cada uno en la version final la raiz sera: teknovi.es
      * @return string
