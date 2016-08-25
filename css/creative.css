@@ -28,6 +28,7 @@ a {
 a:hover,
 a:focus {
   color: #3c7ab1;
+  text-decoration: none;
 }
 h1,
 h2,
@@ -422,4 +423,17 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.servicios{
+  text-decoration: none;
+  color: white;
+}
+.c-primary{
+  color: #3cb1a5;
+}
+.c-default{
+  color: white;
+}
+hover:menu{
+  background: #3cb1a5;
 
+}
