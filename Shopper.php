@@ -81,7 +81,7 @@ require_once __DIR__.'/raiz.php';
                     <br><br><br>
                     <p class="text-muted text-center">Estamos hartos de comprar cualquier dispostitivo relacionado con la informática y, ajena de que sea barato o caro, al año lo tengamos que tirar o vender por estar obsoleto o por no servirnos para nada.<br><br> QUEREMOS CAMBIAR ESA MALA COSTUMBRE<br><br> Por eso, en TeknoVi ofrecemos asesoramiento a la carta para que este tipo de incidencias no ocurran y para que, aparte de comprar al mejor precio, la inversión el producto sirva para largo plazo. </p>
                     <br><br><br><br>
-                     <a href="index.php/#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
+                     <a href="index.php#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
                 </div>
             </div>
         </div>

@@ -88,12 +88,13 @@ require_once __DIR__.'/raiz.php';
          <div class="text-right">
                     <h2 class="section-heading" >Algo más?</h2>
                     <br>
-                    <p class="text-muted">Tienes alguna duda? O simplemente necesitas contratar alguno de nustros servicios?<br>Contacta con nosotros!</p> </div>                
+                    <p class="text-muted">Tienes alguna duda? O simplemente necesitas contratar alguno de nustros servicios?<br>Contacta con nosotros!</p> </div>
+                     <a href="index.php#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
+                
                 </div> 
             </div>
         </div>
-        <a href="index.php/#contact" class="btn-primary btn-xl sr-button col-xs-12 col-md-4 col-md-offset-1">Contacta con nosotros</a>
-
+        
     </section>
 
     <!-- jQuery -->
