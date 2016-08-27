@@ -73,14 +73,27 @@ require_once __DIR__.'/raiz.php';
     <section  id="about" class="p100">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2  text-center">
+                <div class="text-center">
                     <h2 class="section-heading c-primary" >Reparaciones</h2>
                     <i class="fa fa-5x fa-cog c-primary sr-icons "></i>
                     <hr class="primary">
-                    <p class="text-muted text-justify">La necesidad de reparar cualquier dispositivo, sea smartphone, tablet u ordenador, es algo cada vez más necesario en la sociedad en la que vivimos. Al mismo tiempo la presencia de un negocio en la web se está convirtiendo en una necesidad si la empresa quiere ser reconocida y publicitada a nivel electrónico, un sector que está constantemente en alza.<br><br> A todo esto, uno no se puede permitir el estar dando vueltas por Vitoria buscando el mejor técnico para reparar su movil, estar comparando constantemente diferentes productos tecnológicos para que luego salga malo o no saber con quien contactar para que te hagan un presupuesto para la web que representará su empresa.<br><br> Ante esta necesidad nace TeknoVi, una empresa vitoriana la cual ofrece servicios tecnológicos a precios muy competentes y personal cualificado con formación suficiente para ayudar en cualquier aspecto dentro de este ámbito.  </p>
-                </div>
+                    <p class="text-muted">La tecnología se rompe cuando quiere, y a nadie le apetece estar dando vueltas por Vitoria buscando la tienda idónea para que le vendan o le arreglen su dispositivo. De ahí nace TeknoVi, una empresa que con una llamada te dan consulta gratuita al momento y te lo arreglan en tu casa. Si la reparación lleva para largo, nos lo llevamos con nosotros y en un periodo de menos de una semana lo tienes funcionando; Fácil y sencillo.<br><br>
+                    Teknovi, diseñamos tu presencia, arreglamos la tecnología.  </p>
+                     <br><br><br><br>
+         <div class="text-left">
+                    <h2 class="section-heading" >No te compliques con los precios</h2>
+                    <br>
+                    <p class="text-muted col-lg-4 col-lg-offset-1">Limpieza del dispositivo: 30€ <br>Reinstalación al gusto: 20€ <br> Todo en uno (reinstalación+limpieza): 40€ <br> </p>   
+                    </div>
+         <div class="text-right">
+                    <h2 class="section-heading" >Algo más?</h2>
+                    <br>
+                    <p class="text-muted">Tienes alguna duda? O simplemente necesitas contratar alguno de nustros servicios?<br>Contacta con nosotros!</p> </div>                
+                </div> 
             </div>
         </div>
+        <a href="index.php/#contact" class="btn-primary btn-xl sr-button col-xs-12 col-md-4 col-md-offset-1">Contacta con nosotros</a>
+
     </section>
 
     <!-- jQuery -->
