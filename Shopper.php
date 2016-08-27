@@ -74,13 +74,13 @@ require_once __DIR__.'/raiz.php';
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2  text-center">
-                    <h2 class="section-heading c-primary" >Compra y requetecompra; Pero...El qué?</h2>
+                    <h2 class="section-heading c-primary" >Compra y requetecompra; Pero...el qué?</h2>
                     <br>
                     <i class="fa fa-5x fa-shopping-bag c-primary sr-icons "></i>
                     <hr class="primary">
                     <br><br><br>
-                    <p class="text-muted text-center">Estamos hartos de comprar cualquier dispostitivo relacionado con la informática y, ajena de que sea barato o caro, al año lo tengamos que tirar o vender por estar obsoleto o por no servirnos para nada.<br><br> QUEREMOS CAMBIAR ESA MALA COSTUMBRE<br><br> Por eso, en TeknoVi ofrecemos asesoramiento a la carta para que este tipo de incidencias no ocurran y para que, aparte de comprar al mejor precio, la inversión el producto sirva para largo plazo. </p>
-                    <br><br><br><br>
+                    <p class="text-muted text-center">Estamos cansados de comprar cualquier dispostitivo relacionado con la informática y que al año lo tengamos que tirar, o vender, por estar obsoleto, o por no servirnos para nada.<br><br>QUEREMOS CAMBIAR ESA MALA COSTUMBRE<br><br> Por eso, en TeknoVi ofrecemos asesoramiento a la carta para que este tipo de incidencias no ocurran y para que, aparte de comprar al mejor precio, la inversión en el producto sirva para largo plazo. </p>
+                    <br><br>
                      <a href="index.php#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
                 </div>
             </div>

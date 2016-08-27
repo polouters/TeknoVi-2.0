@@ -74,7 +74,7 @@ require_once __DIR__.'/raiz.php';
                 <h1 id="homeHeading">TeknoVi</h1>
                 <hr>
                 <p>Diseñamos tu presencia, arreglamos la tecnología</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Mas información</a>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Más información</a>
             </div>
         </div>
     </header>
@@ -116,14 +116,14 @@ require_once __DIR__.'/raiz.php';
                     <div class="service-box">
                         <i class="fa fa-4x fa-cog  sr-icons"></i>
                         <a href="<?php echo url::getRaiz();?>/Reparaciones.php" class="servicios"><h3> Reparaciones</h3></a>
-                        <p class="text-faded">Si tu ordenador, movil, tablet u otro producto tecnológico necesita echar un vistazo, este es tu sitio.</p>
+                        <p class="text-faded">Si tu ordenador, movil, tablet u otro producto tecnológico necesita echar un vistazo, éste es tu sitio.</p>
                     </div>
                 </div>
                 <div class="col-lg-15 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-question  sr-icons"></i>
                         <a href="<?php echo url::getRaiz();?>/Dudas.php" class="servicios"><h3>Dudas?</h3></a>
-                        <p class="text-faded">Tienes alguna duda relacionada con el mundo de la tecnologia o no te decides con qué hosting quedarte para tu web? No dudes en consultarnos en nuestras redes!. </p>
+                        <p class="text-faded">Tienes alguna duda relacionada con el mundo de la tecnologia o no te decides con qué hosting quedarte para tu web? Consúltalo en nuestras redes! </p>
                     </div>
                 </div>
                 <div class="col-lg-17 col-md-6 text-center">
