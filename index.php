@@ -82,13 +82,8 @@ require_once __DIR__.'/raiz.php';
     <section  id="about" class="p100">
         <div class="container">
             <div class="row">
-<<<<<<< HEAD:index.html
                 <p class="text-center">
                     <h2 class="section-heading text-center">Nuestro objetivo</h2>
-=======
-                <div class="col-lg-8 col-lg-offset-2  text-justify">
-                    <h2 class="section-heading text-center" >Nuestro objetivo</h2>
->>>>>>> 8c8ad83bfbdcf972e27f3c98ed4800f100d01b33:index.php
                     <hr class="primary">
                     <p class="text-muted">La necesidad de reparar cualquier dispositivo, sea smartphone, tablet u ordenador, es algo cada vez más necesario en la sociedad en la que vivimos. Al mismo tiempo la presencia de un negocio en la web se está convirtiendo en una necesidad si la empresa quiere ser reconocida y publicitada a nivel electrónico, un sector que está constantemente en alza.<br><br> A todo esto, uno no se puede permitir el estar dando vueltas por Vitoria buscando el mejor técnico para reparar su movil, estar comparando constantemente diferentes productos tecnológicos para que luego salga malo o no saber con quien contactar para que te hagan un presupuesto para la web que representará su empresa.<br><br> Ante esta necesidad nace TeknoVi, una empresa vitoriana la cual ofrece servicios tecnológicos a precios muy competentes y personal cualificado con formación suficiente para ayudar en cualquier aspecto dentro de este ámbito.  </p>
                     <a href="#contact" class="page-scroll btn btn-primary btn-xl sr-button col-xs-12 col-md-4 col-md-offset-1">Contacta con nosotros</a>

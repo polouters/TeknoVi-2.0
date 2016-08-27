@@ -74,10 +74,14 @@ require_once __DIR__.'/raiz.php';
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2  text-center">
-                    <h2 class="section-heading c-primary" >Personal Shopper</h2>
+                    <h2 class="section-heading c-primary" >Compra y requetecompra; Pero...El qué?</h2>
+                    <br>
                     <i class="fa fa-5x fa-shopping-bag c-primary sr-icons "></i>
                     <hr class="primary">
-                    <p class="text-muted text-justify">La necesidad de reparar cualquier dispositivo, sea smartphone, tablet u ordenador, es algo cada vez más necesario en la sociedad en la que vivimos. Al mismo tiempo la presencia de un negocio en la web se está convirtiendo en una necesidad si la empresa quiere ser reconocida y publicitada a nivel electrónico, un sector que está constantemente en alza.<br><br> A todo esto, uno no se puede permitir el estar dando vueltas por Vitoria buscando el mejor técnico para reparar su movil, estar comparando constantemente diferentes productos tecnológicos para que luego salga malo o no saber con quien contactar para que te hagan un presupuesto para la web que representará su empresa.<br><br> Ante esta necesidad nace TeknoVi, una empresa vitoriana la cual ofrece servicios tecnológicos a precios muy competentes y personal cualificado con formación suficiente para ayudar en cualquier aspecto dentro de este ámbito.  </p>
+                    <br><br><br>
+                    <p class="text-muted text-center">Estamos hartos de comprar cualquier dispostitivo relacionado con la informática y, ajena de que sea barato o caro, al año lo tengamos que tirar o vender por estar obsoleto o por no servirnos para nada.<br><br> QUEREMOS CAMBIAR ESA MALA COSTUMBRE<br><br> Por eso, en TeknoVi ofrecemos asesoramiento a la carta para que este tipo de incidencias no ocurran y para que, aparte de comprar al mejor precio, la inversión el producto sirva para largo plazo. </p>
+                    <br><br><br><br>
+                     <a href="index.php/#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
                 </div>
             </div>
         </div>
