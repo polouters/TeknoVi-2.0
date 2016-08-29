@@ -77,21 +77,22 @@ require_once __DIR__.'/raiz.php';
                     <h2 class="section-heading c-primary" >Reparaciones</h2>
                     <i class="fa fa-5x fa-cog c-primary sr-icons "></i>
                     <hr class="primary">
-                    <p class="text-muted">La tecnología se rompe cuando quiere, y a nadie le apetece estar dando vueltas por Vitoria buscando la tienda idónea para que le vendan o le arreglen su dispositivo. De ahí nace TeknoVi, una empresa que, con una llamada, te da consulta gratuita al momento y te lo arregla en tu casa. Si la reparación es para largo, nos lo llevamos con nosotros y, en un periodo  corto de tiempo, lo tienes como nuevo otra vez; Fácil y sencillo.<br><br>
+                    <p class="text-muted text-justify">La tecnología se rompe cuando quiere, y a nadie le apetece estar dando vueltas por Vitoria buscando la tienda idónea para que le vendan o le arreglen su dispositivo. De ahí nace TeknoVi, una empresa que, con una llamada, te da consulta gratuita al momento y te lo arregla en tu casa. Si la reparación es para largo, nos lo llevamos con nosotros y, en un periodo  corto de tiempo, lo tienes como nuevo otra vez; Fácil y sencillo.<br><br>
                      </p>
                      <br><br><br><br>
-         <div class="text-left">
-                    <h2 class="section-heading" >No te compliques con los precios</h2>
+         <div class="col-lg-6">
+                    <h2 class="section-heading text-left" >No te compliques con los precios</h2>
                     <br>
-                    <p class="text-muted col-lg-4 col-lg-offset-1">Limpieza del dispositivo: 30€ <br>Reinstalación al gusto: 20€ <br> Todo en uno (reinstalación+limpieza): 40€ <br> </p>   
+                    <p class="text-muted text-left ">Limpieza del dispositivo o formateo: 30€ <br>Reinstalación al gusto: 20€ <br> Todo en uno (Formateo+reinstalacion): 40€ <br> </p>
                     </div>
-         <div class="text-right">
+         <div class="col-lg-6">
                     <h2 class="section-heading" >Algo más?</h2>
                     <br>
                     <p class="text-muted">Tienes alguna duda? O simplemente necesitas contratar alguno de nustros servicios?<br>Contacta con nosotros!</p> </div>
-                     <a href="index.php#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
-                
-                </div> 
+                </div>
+                <div class="col-xs-12 text-center">
+                    <a href="index.php#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
+                </div>
             </div>
         </div>
         

@@ -39,7 +39,7 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 p {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
@@ -82,7 +82,7 @@ aside {
 }
 .navbar-default .navbar-header .navbar-toggle {
   font-weight: 700;
-  font-size: 12px;
+  font-size: 15px;
   color: #222222;
   text-transform: uppercase;
 }
@@ -90,7 +90,7 @@ aside {
 .navbar-default .nav > li > a:focus {
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 13px;
+  font-size: 14px;
   color: #222222;
 }
 .navbar-default .nav > li > a:hover,
@@ -171,7 +171,7 @@ header .header-content .header-content-inner h1 {
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 30px;
+  font-size: 38px;
 }
 header .header-content .header-content-inner hr {
   margin: 30px auto;
@@ -179,7 +179,7 @@ header .header-content .header-content-inner hr {
 header .header-content .header-content-inner p {
   font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
-  font-size: 16px;
+  font-size: 20px;
   margin-bottom: 50px;
 }
 @media (min-width: 768px) {
@@ -203,7 +203,7 @@ header .header-content .header-content-inner p {
     font-size: 50px;
   }
   header .header-content .header-content-inner p {
-    font-size: 18px;
+    font-size: 23px;
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -263,10 +263,10 @@ header .header-content .header-content-inner p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
   text-transform: uppercase;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 18px;
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-size: 18px;
+  font-size: 23px;
 }
 .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
@@ -276,10 +276,10 @@ header .header-content .header-content-inner p {
 }
 @media (min-width: 768px) {
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-    font-size: 16px;
+    font-size: 25px;
   }
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-size: 22px;
+    font-size: 28px;
   }
   .p100{
     height: 100%;

@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `asistencias` (
 )
 
 ========================================
-INSERT INTO `controldepersonal`.`usuarios` (`id_usuario`, `matricula`, `password`, `nombre_usuario`, `prioridad`, `fecha_creacion`) VALUES ('1', ’123’, ‘123’, ‘Ruben’, '1', CURRENT_TIMESTAMP);
+INSERT INTO `controldepersonal`.`usuarios` (`id_usuario`, `matricula`, `password`, `nombre_usuario`, `prioridad`, `fecha_creacion`) VALUES ('1', ’ruben’, ‘polo’, ‘Ruben’, '1', CURRENT_TIMESTAMP);
 
-INSERT INTO `usuarios` (`id_usuario`, `matricula`, `password`, `nombre_usuario`, `prioridad`, `fecha_creacion`) VALUES ('NULL', 'danielmartinez', '65ch26', 'Daniel Martinez campaña', '1', CURRENT_TIMESTAMP);
+INSERT INTO `usuarios` (`id_usuario`, `matricula`, `password`, `nombre_usuario`, `prioridad`, `fecha_creacion`) VALUES (‘2’, ‘mikel’, ‘beorlegi’, ‘mikel’, '1', CURRENT_TIMESTAMP);
      

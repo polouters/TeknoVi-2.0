@@ -1,5 +1,5 @@
 <?PHP
-$conexion=mysql_connect("localhost","root","root");
+$conexion=mysql_connect("localhost","root","Juf13KpD");
 $cosa=mysql_select_db("controldepersonal");
  
 //Requerimiento para que funcione mysqli_query($link, $query);
