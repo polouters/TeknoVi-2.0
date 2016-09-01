@@ -441,3 +441,8 @@ hover:menu{
   padding-left: 15px;
   padding-right: 15px;
 }
+.imagenH{
+  height: auto;
+  max-height: 60%;
+  width: auto;
+}
