@@ -150,20 +150,28 @@ require_once __DIR__.'/raiz.php';
                     <p>Tienes alguna duda? O simplemente necesitas contratar alguno de nustros servicios?<br>Contacta con nosotros!</p>
                 </div>
                 
-                <div class="col-md-4 col-md-offset-2  text-center">
+                <div class="col-md-4 text-center">
                     <i class="fa fa-whatsapp fa-3x sr-contact"></i>
-                    <p>666 777 888</p>
+                    <p>681602265</p>
                 </div>
-                <div class="col-md-4  text-center">
+                 <div class="col-md-4 text-center">AM
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                    <p>688888888</p>
+                </div>
+                <div class="col-md-4 text-center">PM
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                    <p>681602803</p>
+                </div>
+                <div class="col-md-2 col-lg-offset-1 text-center">
                 	<i class="fa fa-facebook fa-3x sr-contact"></i>
                 	<p><a href="https://www.facebook.com/TeknoVitoria/?notif_t=page_admin&notif_id=1471867389264873">
                 	TeknoVi</a></p>
                 </div>
-                <div class="col-md-4 col-md-offset-2  text-center">
+                <div class="col-md-2 col-lg-offset-2 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p><a href="mailto:teknovi@outlook.es">teknovi@outlook.es</a></p>
+                    <p><a href="mailto:teknovi@outlook.es">info@teknovi.es</a></p>
                 </div>
-                <div class="col-md-4  text-center">
+                <div class="col-md-2 col-lg-offset-2 text-center">
                     <i class="fa fa-instagram fa-3x sr-contact"></i>
                     <p><a href="https://www.instagram.com/teknovi_/">@TeknoVi_</a></p>
                 </div>
