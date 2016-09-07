@@ -73,7 +73,6 @@ require_once __DIR__.'/raiz.php';
             <div class="header-content-inner">
                  <img class="imagenH" src="img/Logo_colores_sr2.png" alt="TeknoVi">
                 <hr>
-                <p>Diseñamos tu presencia, arreglamos la tecnología</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Más información</a>
             </div>
         </div>
