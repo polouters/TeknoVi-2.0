@@ -83,10 +83,12 @@ require_once __DIR__.'/raiz.php';
         <div class="container">
             <div class="row">
                 <p class="text-center">
-                    <h2 class="section-heading text-center">Nuestro objetivo: <br><br>Mantenerte informado</h2>
+                    <h2 class="section-heading text-center">Nuestro objetivo: Mantenerte informado</h2>
+                    <br>
                     <hr class="primary">
-                    <p class="text-muted text-justify paddingcentro"> Vemos constantemente comercios que, aunque su producto sea compentente y de calidad, tienen la necesidad de cerrar por el hecho de no vender lo suficiente. Uno de los motivos principales de que ocurra esto es por la falta de publicidad de la misma. <br><br> Nosotros consideramos que la mejor manera de hacerse ver hoy en día es a través de la web, pero los costes de publicitarse en esta herramienta suelen ser altos. <br><br>Por eso, y dirigido para esos comerciantes, nace TeknoVi, una empresa que crea aplicaciones web de calidad y ajustadas a las necesidades del consumidor de hoy en día. <br><br> <br><br>Y si, aparte de crear webs para empresas te interesa resolver alguna duda relacionada con la informática o necesitas asesoramiento, aquí estamos para lo que quieras.
-                    
+                    <br><br>
+                    <p class="text-muted text-center paddingcentro"> Vemos constantemente comercios que, aunque su producto sea compentente y de calidad, tienen la necesidad de cerrar por el hecho de no vender lo suficiente. Uno de los motivos principales de que ocurra esto es por la falta de publicidad de la misma. Nosotros consideramos que la mejor manera de hacerse ver hoy en día es a través de la web, pero los costes de publicitarse en esta herramienta suelen ser altos.Por eso, y dirigido para esos comerciantes, nace TeknoVi, una empresa que crea aplicaciones web de calidad y ajustadas a las necesidades del consumidor de hoy en día. <br><br>Y si, aparte de crear webs para empresas te interesa resolver alguna duda relacionada con la informática o necesitas asesoramiento, aquí estamos para lo que quieras.
+                    <br><br><br><br>
                     <a href="#services" class="page-scroll btn btn-primary btn-xl sr-button col-xs-12 col-md-4 col-md-offset-1">Nuestros servicios</a>
                     <br class="hidden-md hidden-lg"><br class="hidden-md hidden-lg"><br class="hidden-md hidden-lg"><br class="hidden-md hidden-lg">
                      <a href="#contact" class="page-scroll btn btn-primary btn-xl sr-button col-xs-12 col-md-4 col-md-offset-1">Contacta con nosotros</a>
