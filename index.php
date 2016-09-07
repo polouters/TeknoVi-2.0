@@ -149,7 +149,7 @@ require_once __DIR__.'/raiz.php';
                     <hr class="primary">
                     <p>Tienes alguna duda? O simplemente necesitas contratar alguno de nustros servicios?<br>Contacta con nosotros!</p>
                 </div>
-                
+                <br><br><br>
                 <div class="col-md-4 text-center">
                     <i class="fa fa-whatsapp fa-3x sr-contact"></i>
                     <p>681602265</p>
@@ -192,7 +192,7 @@ require_once __DIR__.'/raiz.php';
 
     <!-- Theme JavaScript -->
     <script src="js/creative.min.js"></script>
-
+  <div class="text center"><p>@Ruben Polo Corporation</p></div>
 </body>
 
 </html>
