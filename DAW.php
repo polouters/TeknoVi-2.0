@@ -77,7 +77,9 @@ require_once __DIR__.'/raiz.php';
                     <h2 class="section-heading c-primary" >Desarrollo de Aplicaciones y Web</h2>
                     <i class="fa fa-5x fa-gitlab c-primary sr-icons "></i>
                     <hr class="primary">
-                    <p class="text-muted text-justify">Vivimos en una sociedad en la que no nos imaginamos una empresa, tienda, pub, celebridad, o incluso una persona normal de la calle que no este representada en la red. Desde TeknoVi queremos poner te lo muy fácil, y haremos un presupuesto personalizado acorde a tus necesidades, analizaremos cuales son las necesidades y haremos de tu necesidad una web completa y perfecta para lanzarte al publico.<br><br>Pero no nos conformamos solo con esto, solo por depositar tu confianza en nosotros para elaborar  tu proyecto online, te regalamos un completo asesoramiento para el alojamiento tu web. </p>
+                    <p class="text-muted text-Center">NO CONOCEMOS NUESTRO MUNDO SIN INTERNET<br><br>Comercios con productos muy interesantes pasan desapercibidos si no tienen página web. Grandes artistas, científicos o revolucionarios del siglo XXI, por desgracia, no se les representa de la manera que se merecen si no son conocidos en la red.<br><br>Uno de los motivos los cuales no lo conocemos todo es porque hacerse conocer hoy en día a través de este medio de comunicación es complicado y los resultados no son de calidad.<br><br>En teknoVi, uno de los objetivos marcados desde la apertura de esta empresa es dar a conocer todo lo que nos rodea de una manera clara, objetiva, moderna y asequible.<br><br>Contacta con nosotros y te haremos un presupuesto a medida.</p>
+
+                    <a href="index.php#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
                 </div>
             </div>
         </div>
