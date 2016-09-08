@@ -81,9 +81,9 @@ require_once __DIR__.'/raiz.php';
                      </p>
                      <br><br><br><br>
          <div class="col-lg-6">
-                    <h2 class="section-heading text-left" >No te compliques con los precios</h2>
+                    <h2 class="section-heading text-left" >Nuestros servicios mas solicitados:</h2>
                     <br>
-                    <p class="text-muted text-left ">Limpieza del dispositivo o formateo: 30€ <br>Reinstalación al gusto: 20€ <br> Todo en uno (Formateo+reinstalacion): 40€ <br> </p>
+                    <p class="text-muted text-left ">Limpieza del dispositivo o formateo <br>Reinstalación al gusto <br> Todo en uno (Formateo+reinstalacion) <br> </p>
                     </div>
          <div class="col-lg-6">
                     <h2 class="section-heading" >Algo más?</h2>

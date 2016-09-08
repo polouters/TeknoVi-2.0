@@ -152,14 +152,17 @@ require_once __DIR__.'/raiz.php';
                 <br><br><br>
                 <div class="col-md-4 text-center">
                     <i class="fa fa-whatsapp fa-3x sr-contact"></i>
-                    <p>681602265</p>
+                    <p>681602552</p>
+                    <p>681602803</p>
                 </div>
-                 <div class="col-md-4 text-center">AM
-                    <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>688888888</p>
+                 <div class="col-md-4 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact cV"></i>
+                    <p>AM(9:30-16:00)</p>
+                    <p>681602552</p>
                 </div>
-                <div class="col-md-4 text-center">PM
-                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                <div class="col-md-4 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact cV"></i>
+                    <p>PM(18:00-22:00)</p>
                     <p>681602803</p>
                 </div>
                 <div class="col-md-2 col-lg-offset-1 text-center">
