@@ -79,7 +79,7 @@ require_once __DIR__.'/raiz.php';
                     <i class="fa fa-5x fa-question c-primary sr-icons "></i>
                     <hr class="primary">
                     <br><br>
-                    <p class="text-muted text-center">No solo reparamos tu tecnología, también te ayudamos cuan cualquier duda que te surja sin necesidad de acudir a tu casa<br><br>Muchas veces son tonterías que perfectamente los puede arreglar uno, sin la necesidad de llamar a ningún técnico y en escasos cinco minutos.<br<br>Te ofrecemos diferentes medios  para contactar con nosotros y resolver tu duda.</p>
+                    <p class="text-muted text-center">No solo reparamos tu tecnología, también te ayudamos con cualquier duda que te surja sin necesidad de acudir a tu casa<br><br>Muchas veces son tonterías que perfectamente los puede arreglar uno, sin la necesidad de llamar a ningún técnico y en escasos cinco minutos.<br<br>Te ofrecemos diferentes medios  para contactar con nosotros y resolver tu duda.</p>
                      <br><br>
                     <a href="index.php#contact" class="page-scroll btn btn-primary btn-xl sr-button">Contacta con nosotros</a>
                 </div>
