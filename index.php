@@ -144,7 +144,7 @@ require_once __DIR__.'/raiz.php';
     <section id="contact" class="p100">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
+                <div class="col-lg-8 col-lg-offset-2 col text-center">
                     <h2 class="section-heading">Servicio barato, rápido y eficaz </h2>
                     <hr class="primary">
                     <p>Tienes alguna duda? O simplemente necesitas contratar alguno de nustros servicios?<br>Contacta con nosotros!</p>
@@ -165,19 +165,27 @@ require_once __DIR__.'/raiz.php';
                     <p>PM(18:00-22:00)</p>
                     <p>681602803</p>
                 </div>
-                <div class="col-md-2 col-lg-offset-1 text-center">
+                <div class="col-md-4 text-center">
                 	<i class="fa fa-facebook fa-3x sr-contact"></i>
                 	<p><a href="https://www.facebook.com/TeknoVitoria/?notif_t=page_admin&notif_id=1471867389264873">
                 	TeknoVi</a></p>
                 </div>
-                <div class="col-md-2 col-lg-offset-2 text-center">
+                <div class="col-md-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
                     <p><a href="mailto:teknovi@outlook.es">info@teknovi.es</a></p>
                 </div>
-                <div class="col-md-2 col-lg-offset-2 text-center">
+                <div class="col-md-4 text-center">
                     <i class="fa fa-instagram fa-3x sr-contact"></i>
                     <p><a href="https://www.instagram.com/teknovi_/">@TeknoVi_</a></p>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="footer" class="panel-footer navbar-bottom">
+        <div class="container">
+            <div class="row">
+                <p class="col-xs-12 col-md-12 col-sm-12 text-center">© Copyright 2016 teknovi.es - All Rights Reserved</p>
             </div>
         </div>
     </section>
@@ -195,7 +203,7 @@ require_once __DIR__.'/raiz.php';
 
     <!-- Theme JavaScript -->
     <script src="js/creative.min.js"></script>
-  <div class="text center"><p>@Ruben Polo Corporation</p></div>
+
 </body>
 
 </html>
